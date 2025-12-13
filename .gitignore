@@ -2,3 +2,10 @@
 # Model weights
 *.pt
 
+
+
+# Datasets (local only)
+Datasets/
+Dataset/
+data/
+
