@@ -1,11 +1,8 @@
 
 # Model weights
 *.pt
-
+*py
 
 
 # Datasets (local only)
-Datasets/
-Dataset/
-data/
-
+UCF Crime Dataset/
