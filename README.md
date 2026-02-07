@@ -43,7 +43,7 @@ Given a video represented as a folder of frames, the pipeline:
 conda create -n crowd-anomaly python=3.10 -y
 conda activate crowd-anomaly
 ```
-ץץ
+
 ## Dataset Format
 ```txt
 Dataset/
