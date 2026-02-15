@@ -50,12 +50,12 @@ Dataset/
   Train/
     NormalVideos/
       video_001/
-        frame_0001.jpg
-        frame_0002.jpg
+        Normal_0001.jpg
+        Normal_0002.jpg
         ...
     Robbery/
       video_105/
-        frame_0001.jpg
+        Robbery_0001.jpg
         ...
   Test/
     NormalVideos/
